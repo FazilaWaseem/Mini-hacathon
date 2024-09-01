@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Space Grotesk", sans-serif;
+}
+.card mb-3{
+    margin-left: 10rem;
+    padding: 5rem;
+}
